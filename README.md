@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abinash
 #### I am a self taught blockchain software developer
-I'm a self-taught Solidity Developer. Despite not having a technical background, I've developed a strong skill set in Ethereum, Solidity, Node.js, and Ethers.js. I've worked on several projects related to Defi and NFT, and have experience working with Chainlink, Uniswap, and OpenZeppelin services.
+Despite not having a technical background, I've developed a strong skill set in Ethereum, Solidity, Node.js, and Ethers.js. I've worked on several projects related to Defi and NFT, and have experience working with Chainlink, Uniswap, and OpenZeppelin services.
 
 As a self-taught developer, I've had to overcome many challenges and obstacles to get to where I am today. However, my passion for the blockchain industry and my dedication to learning has helped me succeed. I'm constantly learning and staying up-to-date with the latest developments in the blockchain space. My goal is to help build a more decentralized and equitable world through the power of blockchain technology.
 
