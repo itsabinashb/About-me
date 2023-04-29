@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Abinash
+![github](./profile.png)
+### Hi there 👋, 
 #### I am a self taught blockchain software developer
 Despite not having a technical background, I've developed a strong skill set in Ethereum, Solidity, Node.js, and Ethers.js. I've worked on several projects related to Defi and NFT, and have experience working with Chainlink, Uniswap, and OpenZeppelin services.
 
