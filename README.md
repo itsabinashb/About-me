@@ -1,6 +1,9 @@
 ![github](./profile.png)
 ### Hi there 👋, 
 #### I am a self taught blockchain software developer
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 Despite not having a technical background, I've developed a strong skill set in Ethereum, Solidity, Node.js, and Ethers.js. I've worked on several projects related to Defi and NFT, and have experience working with Chainlink, Uniswap, and OpenZeppelin services.
 
 As a self-taught developer, I've had to overcome many challenges and obstacles to get to where I am today. However, my passion for the blockchain industry and my dedication to learning has helped me succeed. I'm constantly learning and staying up-to-date with the latest developments in the blockchain space. My goal is to help build a more decentralized and equitable world through the power of blockchain technology.
