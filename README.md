@@ -1,4 +1,4 @@
-![github](./profile.png)
+
 ### Hi there 👋, 
 #### I am a self taught blockchain software developer
 
