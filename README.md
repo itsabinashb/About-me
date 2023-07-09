@@ -1,7 +1,5 @@
-
-### Hi there 👋, 
-#### I am a self taught blockchain software developer
-
+<h1 align="center">Hi 👋, I'm am Abinash Burman</h1>
+<h3 align="center">SELF TAUGHT BLOCKCHAIN DEVELOPER</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 Despite not having a technical background, I've developed a strong skill set in Ethereum, Solidity, Node.js, and Ethers.js. I've worked on several projects related to Defi and NFT, and have experience working with Chainlink, Uniswap, and OpenZeppelin services.
@@ -10,7 +8,7 @@ As a self-taught developer, I've had to overcome many challenges and obstacles t
 
 
 
-Skills: Solidity | Ethers.js | Ethereum | Defi | NFT | Git | L2
+Skills: Solidity | Ethers.js | Ethereum | Defi | NFT | Git | L2 | Subgraph | ChatGPT | Prompt Engineering
 
 - 🔭 I’m currently working on defi and nft projects 
 - 🌱 I’m currently learning so many things related to blockchain 
@@ -18,12 +16,9 @@ Skills: Solidity | Ethers.js | Ethereum | Defi | NFT | Git | L2
 - 💬 Ask me about my journey 
 - 📫 How to reach me: https://www.linkedin.com/in/abinash-burman-107137256/ 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Yeah, I am not boring🤗 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itsabinashb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abinash-burman-107137256//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/itsabinashb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19199608)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@itsabinashb) 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsabinashb)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabinashb)](https://github.com/anuraghazra/github-readme-stats)
 
